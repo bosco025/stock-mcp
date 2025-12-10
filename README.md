@@ -69,7 +69,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/stock-tool-mcp.git
+   git clone https://github.com/huweihua123/stock-mcp.git
    cd stock-tool-mcp
    ```
 
